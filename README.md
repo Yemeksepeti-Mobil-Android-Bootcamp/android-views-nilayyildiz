@@ -1,6 +1,6 @@
 # Yemeksepeti Mobile Android Bootcamp Homework1 
 
-This repo is the first homework repo we created in Yemeksepeti Mobile Android Bootcamp. It contains a README file and Android project.
+This repo has been created for first homework of Yemeksepeti Mobile Android Bootcamp. It contains a README file and Android project.
 
 ## Targeted Designs
 
