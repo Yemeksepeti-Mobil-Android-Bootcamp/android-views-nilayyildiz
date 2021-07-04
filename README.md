@@ -2,6 +2,8 @@
 
 This repo has been created for first homework of Yemeksepeti Mobile Android Bootcamp. It contains a README file and Android project.
 
+When the Log In button is clicked on the Onboarding Screen, the Login Screen opens.
+
 ## Targeted Designs
 
 OnboardingScreen  | LoginScreen
