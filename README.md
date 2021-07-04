@@ -1,6 +1,3 @@
-# android-views-nilayyildiz
-android-views-nilayyildiz created by GitHub Classroom
-
 # Yemeksepeti Mobile Android Bootcamp Homework1 
 
 This repo is the first homework repo we created in Yemeksepeti Mobile Android Bootcamp. It contains a README file and Android project.
