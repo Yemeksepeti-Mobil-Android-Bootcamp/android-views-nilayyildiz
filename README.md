@@ -11,7 +11,9 @@ OnboardingScreen  | LoginScreen
 
 ## Realized Designs
 
-![Screenshot_Main](https://user-images.githubusercontent.com/71497349/124369610-14507180-dc76-11eb-856e-5962308dae05.png)       ![Screenshot_Login](https://user-images.githubusercontent.com/71497349/124369615-2af6c880-dc76-11eb-81ce-bed2f31f636f.png)
+OnboardingScreen  | LoginScreen
+  ------------- | -------------
+![Screenshot_Main](https://user-images.githubusercontent.com/71497349/124369610-14507180-dc76-11eb-856e-5962308dae05.png)    |    ![Screenshot_Login](https://user-images.githubusercontent.com/71497349/124369615-2af6c880-dc76-11eb-81ce-bed2f31f636f.png)
 
 
 
